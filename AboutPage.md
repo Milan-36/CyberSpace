@@ -1,3 +1,5 @@
+# CyberSpace
+
 ![Web@ 30 Year](https://github.com/NJIT-YP32/CyberSpace/blob/main/src/images/web%4030_News.png)
 
 
@@ -9,5 +11,3 @@
 *	**Sir Tim Berner-lee** Inventor of the **World Wide Web** says *"Its originally the idea of the web was that it would be a two-way thing that he would be able to contribute and the web over the last decade has missed that we are returning to the idea of a read/write web so the fact that it's a space in which people can write a blog and contribute to a wiki is really exciting for me because they bring back the common person as the author."*
 *	The general direction of the changes that are coming for the web bigger, faster, more social, more pervasive, more all-consuming. 
 *	We're all enveloping whether we like it or not the web has taken on a life of its own it's autocatalytic .
-
-
